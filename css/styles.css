@@ -6,12 +6,15 @@
 /* Components */
 @import "components/status-bar.css";
 @import "components/nav-bar.css";
+@import "components/screen-header.css";
+@import "components/user-component.css";
 
 /* Screens */
 @import "screens/login.css";
+@import "screens/firends.css";
 
 body{
     font-family: 'Ubuntu Mono', monospace;
-    height: 1000Vh;
+    color:#2e363e;
 }
 
