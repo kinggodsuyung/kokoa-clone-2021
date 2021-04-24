@@ -3,6 +3,7 @@
     justify-content:space-between;
     align-items: center;
     padding:var(--horizontal-space);
+    margin-bottom:15px;
     margin-top:27px;
 }
 
