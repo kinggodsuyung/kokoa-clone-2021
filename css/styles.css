@@ -13,6 +13,7 @@
 /* Screens */
 @import "screens/login.css";
 @import "screens/firends.css";
+@import "screens/find.css";
 
 body{
     font-family: 'Ubuntu Mono', monospace;
